@@ -1,0 +1,25 @@
+﻿@page "{IdProducto:long}"
+@model EditarModel
+@{
+    ViewData["Title"] = "Editar Producto";
+}
+
+<h3>Editar Producto</h3>
+
+<form asp-page-handler="Editar" method="post">
+  <div class="form-row">
+    <div class="form-group col-md-6">
+      <label for="IdProducto">IdProducto</label>
+      <input type="text" class="form-control" id="IdProducto" name="IdProducto" value="@Model.producto.IdProducto" readonly>
+      <label for="IdProducto">Eanproducto</label>
+      <input type="text" class="form-control" id="Eanproducto" name="Eanproducto" value="@Model.producto.Eanproducto">
+      <label for="IdProducto">Nombre</label>
+      <input type="text" class="form-control" id="Nombre" name="Nombre" value="@Model.producto.Nombre">
+      <label for="IdProducto">Precio</label>
+      <input type="text" class="form-control" id="Precio" name="Precio" value="@Model.producto.Precio">
+    </div>
+  </div>
+  <br>
+  <button type="submit" class="btn btn-primary">Actualizar</button>
+  <button type="submit" class="btn btn-primary" onclick="history.go(-1); return false;">Regresar</button>
+</form>

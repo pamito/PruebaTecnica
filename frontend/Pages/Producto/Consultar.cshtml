@@ -1,0 +1,46 @@
+﻿@page
+@model ConsultarModel
+@{
+    ViewData["Title"] = "Consultar Productos";
+}
+
+<h3>Consultar Productos</h3>
+
+<form asp-page-handler="Nuevo" method="post">
+    <button type="submit" class="btn btn-info">Nuevo</button>
+</form>
+<table class="table">
+  <thead>
+    <tr>
+      <th scope="col">Codigo</th>
+      <th scope="col">EAN</th>
+      <th scope="col">Nombre</th>
+      <th scope="col">Precio</th>
+      <th scope="col">Estado</th>
+    </tr>
+  </thead>
+  <tbody>
+    @foreach (var p in Model.productos)
+    {
+        <tr>
+            <th scope="row">@p.CodigoProducto</th>
+            <td>@p.Eanproducto</td>
+            <td>@p.Nombre</td>
+            <td>@p.Precio</td>
+            <td>@p.NombreEstado</td>
+            <td>
+                <div class="btn-group">
+                    <form asp-page-handler="Editar" method="post">
+                        <button type="submit" class="btn btn-info">Editar</button>&nbsp;
+                        <input type="hidden" name="IdProducto" value="@p.IdProducto" />
+                    </form>                   
+                    <form asp-page-handler="Inactivar" method="post" onsubmit="if(!confirm('Desea Inactivar el Producto:' + '@p.Nombre' + ' ?')){return false;}">
+                        <button type="submit" class="btn btn-info">Inactivar</button>&nbsp;
+                        <input type="hidden" name="IdProducto" value="@p.IdProducto" />
+                    </form>
+                </div>
+            </td>
+        </tr>
+    }
+  </tbody>
+</table>

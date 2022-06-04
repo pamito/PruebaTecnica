@@ -1,0 +1,24 @@
+﻿@page
+@model CrearModel
+@{
+    ViewData["Title"] = "Crear Producto";
+}
+
+<h3>Crear Producto</h3>
+
+<form asp-page-handler="Crear" method="post">
+  <div class="form-row">
+      <label for="IdProducto">Codigo Producto</label>
+      <input type="text" class="form-control" id="Codigoproducto" name="Codigoproducto">
+      <label for="IdProducto">Ean Producto</label>
+      <input type="text" class="form-control" id="Eanproducto" name="Eanproducto">
+      <label for="IdProducto">Nombre</label>
+      <input type="text" class="form-control" id="Nombre" name="Nombre">
+      <label for="IdProducto">Precio</label>
+      <input type="text" class="form-control" id="Precio" name="Precio">
+    </div>
+  </div>
+  <br>
+  <button type="submit" class="btn btn-primary">Crear</button>
+  <button type="submit" class="btn btn-primary" onclick="history.go(-1); return false;">Regresar</button>
+</form>

@@ -1,0 +1,56 @@
+C:\tmp\PruebaNet\pruebatecnica\frontend\bin\Debug\net6.0\appsettings.Development.json
+C:\tmp\PruebaNet\pruebatecnica\frontend\bin\Debug\net6.0\appsettings.json
+C:\tmp\PruebaNet\pruebatecnica\frontend\bin\Debug\net6.0\frontend.staticwebassets.runtime.json
+C:\tmp\PruebaNet\pruebatecnica\frontend\bin\Debug\net6.0\frontend.exe
+C:\tmp\PruebaNet\pruebatecnica\frontend\bin\Debug\net6.0\frontend.deps.json
+C:\tmp\PruebaNet\pruebatecnica\frontend\bin\Debug\net6.0\frontend.runtimeconfig.json
+C:\tmp\PruebaNet\pruebatecnica\frontend\bin\Debug\net6.0\frontend.dll
+C:\tmp\PruebaNet\pruebatecnica\frontend\bin\Debug\net6.0\frontend.pdb
+C:\tmp\PruebaNet\pruebatecnica\frontend\obj\Debug\net6.0\frontend.csproj.AssemblyReference.cache
+C:\tmp\PruebaNet\pruebatecnica\frontend\obj\Debug\net6.0\frontend.GeneratedMSBuildEditorConfig.editorconfig
+C:\tmp\PruebaNet\pruebatecnica\frontend\obj\Debug\net6.0\frontend.AssemblyInfoInputs.cache
+C:\tmp\PruebaNet\pruebatecnica\frontend\obj\Debug\net6.0\frontend.AssemblyInfo.cs
+C:\tmp\PruebaNet\pruebatecnica\frontend\obj\Debug\net6.0\frontend.csproj.CoreCompileInputs.cache
+C:\tmp\PruebaNet\pruebatecnica\frontend\obj\Debug\net6.0\frontend.MvcApplicationPartsAssemblyInfo.cache
+C:\tmp\PruebaNet\pruebatecnica\frontend\obj\Debug\net6.0\frontend.RazorAssemblyInfo.cache
+C:\tmp\PruebaNet\pruebatecnica\frontend\obj\Debug\net6.0\frontend.RazorAssemblyInfo.cs
+C:\tmp\PruebaNet\pruebatecnica\frontend\obj\Debug\net6.0\staticwebassets.build.json
+C:\tmp\PruebaNet\pruebatecnica\frontend\obj\Debug\net6.0\staticwebassets.development.json
+C:\tmp\PruebaNet\pruebatecnica\frontend\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\tmp\PruebaNet\pruebatecnica\frontend\obj\Debug\net6.0\scopedcss\bundle\frontend.styles.css
+C:\tmp\PruebaNet\pruebatecnica\frontend\obj\Debug\net6.0\scopedcss\projectbundle\frontend.bundle.scp.css
+C:\tmp\PruebaNet\pruebatecnica\frontend\obj\Debug\net6.0\frontend.dll
+C:\tmp\PruebaNet\pruebatecnica\frontend\obj\Debug\net6.0\refint\frontend.dll
+C:\tmp\PruebaNet\pruebatecnica\frontend\obj\Debug\net6.0\frontend.pdb
+C:\tmp\PruebaNet\pruebatecnica\frontend\obj\Debug\net6.0\frontend.genruntimeconfig.cache
+C:\tmp\PruebaNet\pruebatecnica\frontend\obj\Debug\net6.0\ref\frontend.dll
+C:\tmp\PruebaNet\pruebatecnica\frontend\bin\Debug\net6.0\AutoMapper.dll
+C:\tmp\PruebaNet\pruebatecnica\frontend\obj\Debug\net6.0\frontend.csproj.CopyComplete
+C:\Users\Pablo Mayorga\Desktop\pruebatecnica\frontend\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Pablo Mayorga\Desktop\pruebatecnica\frontend\bin\Debug\net6.0\appsettings.json
+C:\Users\Pablo Mayorga\Desktop\pruebatecnica\frontend\bin\Debug\net6.0\frontend.staticwebassets.runtime.json
+C:\Users\Pablo Mayorga\Desktop\pruebatecnica\frontend\bin\Debug\net6.0\frontend.exe
+C:\Users\Pablo Mayorga\Desktop\pruebatecnica\frontend\bin\Debug\net6.0\frontend.deps.json
+C:\Users\Pablo Mayorga\Desktop\pruebatecnica\frontend\bin\Debug\net6.0\frontend.runtimeconfig.json
+C:\Users\Pablo Mayorga\Desktop\pruebatecnica\frontend\bin\Debug\net6.0\frontend.dll
+C:\Users\Pablo Mayorga\Desktop\pruebatecnica\frontend\bin\Debug\net6.0\frontend.pdb
+C:\Users\Pablo Mayorga\Desktop\pruebatecnica\frontend\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Pablo Mayorga\Desktop\pruebatecnica\frontend\obj\Debug\net6.0\frontend.csproj.AssemblyReference.cache
+C:\Users\Pablo Mayorga\Desktop\pruebatecnica\frontend\obj\Debug\net6.0\frontend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pablo Mayorga\Desktop\pruebatecnica\frontend\obj\Debug\net6.0\frontend.AssemblyInfoInputs.cache
+C:\Users\Pablo Mayorga\Desktop\pruebatecnica\frontend\obj\Debug\net6.0\frontend.AssemblyInfo.cs
+C:\Users\Pablo Mayorga\Desktop\pruebatecnica\frontend\obj\Debug\net6.0\frontend.csproj.CoreCompileInputs.cache
+C:\Users\Pablo Mayorga\Desktop\pruebatecnica\frontend\obj\Debug\net6.0\frontend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Pablo Mayorga\Desktop\pruebatecnica\frontend\obj\Debug\net6.0\frontend.RazorAssemblyInfo.cache
+C:\Users\Pablo Mayorga\Desktop\pruebatecnica\frontend\obj\Debug\net6.0\frontend.RazorAssemblyInfo.cs
+C:\Users\Pablo Mayorga\Desktop\pruebatecnica\frontend\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Pablo Mayorga\Desktop\pruebatecnica\frontend\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Pablo Mayorga\Desktop\pruebatecnica\frontend\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Pablo Mayorga\Desktop\pruebatecnica\frontend\obj\Debug\net6.0\scopedcss\bundle\frontend.styles.css
+C:\Users\Pablo Mayorga\Desktop\pruebatecnica\frontend\obj\Debug\net6.0\scopedcss\projectbundle\frontend.bundle.scp.css
+C:\Users\Pablo Mayorga\Desktop\pruebatecnica\frontend\obj\Debug\net6.0\frontend.csproj.CopyComplete
+C:\Users\Pablo Mayorga\Desktop\pruebatecnica\frontend\obj\Debug\net6.0\frontend.dll
+C:\Users\Pablo Mayorga\Desktop\pruebatecnica\frontend\obj\Debug\net6.0\refint\frontend.dll
+C:\Users\Pablo Mayorga\Desktop\pruebatecnica\frontend\obj\Debug\net6.0\frontend.pdb
+C:\Users\Pablo Mayorga\Desktop\pruebatecnica\frontend\obj\Debug\net6.0\frontend.genruntimeconfig.cache
+C:\Users\Pablo Mayorga\Desktop\pruebatecnica\frontend\obj\Debug\net6.0\ref\frontend.dll
